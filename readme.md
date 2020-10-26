@@ -2,7 +2,7 @@
 
 This is the winning solution from a Mini-Competition at Data Science Retreat in Berlin. The goal is to predict future sales in Rossman stores across Europe. The data - originally from a Kaggle challenge - has been manipulated using the data.py file (introducing NaNs etc) to increase the difficulty. 
 
-The competition was held with very limited time and the notebooks are left in their original state as they were at the competition's submission deadline. 
+The competition was held with limited time and the notebooks are left in their original state as they were at the competition's submission deadline. 
 
 The solution was awarded first place for an achieved RMSPE of 19%.
 
