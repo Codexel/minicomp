@@ -4,7 +4,7 @@ This is the winning solution from a Mini-Competition at Data Science Retreat in 
 
 The competition was held with limited time and the notebooks are left in their original state as they were at the competition's submission deadline. 
 
-The solution was awarded first place for an achieved RMSPE of 19%.
+The solution was awarded first place for an achieved RMSPE of 18.8%.
 
 Instructions:
 1. Clone this repo
