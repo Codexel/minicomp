@@ -12,6 +12,4 @@ Instructions:
 `conda env create -f environment.yml`
 3. Activate the conda environment you just created:
 `conda activate minicomp`
-4. Launch Jupyter Notebook and open test_notebook.ipynb
-5. Run all cells in test_notebook.ipynb to use our model and get the final score
-6. If you want to see how the training went, open the train_notebook. If you want to see how the cleaning went, open the clean_notebook. 
+4. There are 3 notebooks which loosely resemble the workflow. In notebook 3 you can train our model and test it to get the final score. In the others you can follow our data cleaning and exploration process.
